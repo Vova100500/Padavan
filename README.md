@@ -1,9 +1,6 @@
 ## 💝 Поддержать разработку
 
-Если вам нравится прошивка, вы можете поддержать разработку:
-
-- [Купить кофе](https://pay.cloudtips.ru/p/afb55f71)
-- [Поддержать на Boosty](https://boosty.to/danayer)
+Если вам нравится прошивка, вы можете поддержать разработку
 
 # 📡 Прошивка Padavan для TP-Link EC220-G5 v2.0
 
@@ -19,7 +16,7 @@
 - 🛡️ HTTPS, SSL/TLS поддержка
 - 💾 ZRAM и SFE (ускорение NAT)
 - 📡 XUPNPD медиасервер
-- 🛜 DNSCrypt прокси
+- 🛜 Stubby прокси c поддержкой TLS 1.3
 - 🔄 SFTP сервер
 - 🌍 EAP-TTLS/PEAP аутентификация
 - 🛠️ Поддержка скриптов LUA
@@ -61,5 +58,5 @@
 
 ## 🙏 Благодарности
 - 📟 Оригинальная прошивка Padavan
-- 🔧 Padavan-NG от https://gitlab.com/hadzhioglu
+- 🔧 Padavan-NG от https://gitlab.com/giwih/padavan-ng
 - 🛠️ Загрузчик BREED
